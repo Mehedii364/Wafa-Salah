@@ -1,0 +1,6 @@
+{
+  "name": "Wafa Salah Tracker",
+  "description": "Premium Islamic Salah tracker, accurate prayer times, Quran with 4 layers (Arabic, Bangla pronunciation, English & Bangla meaning), Dua collection, Qibla compass, Tasbih, and Islamic lifestyle companion by Wafa Zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
